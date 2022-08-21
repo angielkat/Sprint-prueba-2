@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d93529-1e12-47c9-9ecb-d0fc26b29505" name="Changes" comment="Hola mundo">
-      <change afterPath="$PROJECT_DIR$/src/Claserama1.java" afterDir="false" />
+    <list default="true" id="f8d93529-1e12-47c9-9ecb-d0fc26b29505" name="Changes" comment="Unificar ramas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClaseRama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseRama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Rama_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661053628817</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clase Rama">
+      <created>1661054482847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661054482847</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +116,8 @@
     <MESSAGE value="Crear clase" />
     <MESSAGE value="Cracion main" />
     <MESSAGE value="Hola mundo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hola mundo" />
+    <MESSAGE value="Clase Rama" />
+    <MESSAGE value="Unificar ramas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unificar ramas" />
   </component>
 </project>
