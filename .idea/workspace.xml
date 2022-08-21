@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d93529-1e12-47c9-9ecb-d0fc26b29505" name="Changes" comment="Crear clase">
+    <list default="true" id="f8d93529-1e12-47c9-9ecb-d0fc26b29505" name="Changes" comment="Cracion main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661052919549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cracion main">
+      <created>1661053299131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661053299131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Crear clase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crear clase" />
+    <MESSAGE value="Cracion main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cracion main" />
   </component>
 </project>
